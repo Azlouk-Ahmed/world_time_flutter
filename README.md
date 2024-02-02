@@ -1,16 +1,40 @@
-# world_time_projec
+# World Time Flutter App
 
-A new Flutter project.
+<img src="https://djhjvd1v9hhoj.cloudfront.net/Flutter%20Hologram.gif" width="300"> 
+
+Welcome to your first Flutter project, "World Time"! This simple app allows users to choose a country from a list, fetch its current time, and dynamically change the background based on whether it's day or night.
+
+## Features
+
+- **Country Selection:** Users can choose a country from a list of available options.
+- **Real-time Data:** The app fetches real-time data to display the current time of the selected country.
+- **Dynamic Background:** The background changes dynamically based on the time of the day - displaying a day picture if it's daytime and a night picture if it's nighttime.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter and Dart installed on your machine. If not, you can follow the official Flutter installation guide: [Flutter - Get Started](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Clone the Repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/your-username/world_time_flutter.git
+cd world_time_flutter
+```
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+### Run the App
+
+```bash
+flutter run
+```
+### Contributing
+
+Feel free to contribute to the project. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
+
+Happy coding! 🚀
+
