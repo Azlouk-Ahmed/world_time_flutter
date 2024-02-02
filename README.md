@@ -1,6 +1,6 @@
 # World Time Flutter App
 
-<img src="https://djhjvd1v9hhoj.cloudfront.net/Flutter%20Hologram.gif" width="300"> ![project image](assests/project_img.png)
+<img src="https://djhjvd1v9hhoj.cloudfront.net/Flutter%20Hologram.gif" width="300"> ![project image](assets/project_img.png)
 
 Welcome to your first Flutter project, "World Time"! This simple app allows users to choose a country from a list, fetch its current time, and dynamically change the background based on whether it's day or night.
 
